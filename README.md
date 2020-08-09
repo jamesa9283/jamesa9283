@@ -1,29 +1,11 @@
-Hello! I'm James, a Full Stack Developer at my company, JASites.
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/GitHubBanner">
 
+### Hi 👋
+I am a Full Stack Web Developer at JASites and a Mathematician.
+- 🔭 I’m currently working on proof verification in Lean.
+- 🌱 I’m currently learning more about ionic for app development.
+- 🤝 I’m looking to collaborate on mathematical programming projects. 
 
-## My GitHub Stats
-<a>
-  <img style="width=48%" align="left" src="https://github-readme-stats.vercel.app/api?username=jamesa9283&count_private=true&show_icons=true" />
-</a>
-<a>
-  <img style="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesa9283&layout=compact" />
-</a>
+![James' Github Stats](https://github-readme-stats.vercel.app/api?username=jamesa9283)
 
-# My Stack
-
-
-# My Social Media
-
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/AlephJamesA
-[2]: https://www.linkedin.com/in/jamesa9283/
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AlephJamesA) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jamesa9283/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jamesa9283/)
