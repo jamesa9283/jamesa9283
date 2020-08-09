@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/GitHubBanner.png">
+<img src="https://github.com/jamesa9283/jamesa9283/blob/master/GitHubBanner.png">
 
 ### Hi 👋
 I am a Full Stack Web Developer at JASites and a Mathematician.
